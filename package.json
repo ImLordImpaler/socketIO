@@ -1,0 +1,19 @@
+{
+  "name": "socket3",
+  "version": "1.0.0",
+  "description": "new to node and node based libraries",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index",
+    "dev" : "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
